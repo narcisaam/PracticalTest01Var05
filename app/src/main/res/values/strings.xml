@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01Var05</string>
+    <string name="Add">Add</string>
+    <string name="Compute">Compute</string>
+    <string name="result">0</string>
+    <string name="returnButton">Return</string>
+    <string name="zero">0</string>
+</resources>
